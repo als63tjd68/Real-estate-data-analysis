@@ -1,1 +1,1 @@
-# Real-estate-data-analysis
+# RFM 분석 Project
